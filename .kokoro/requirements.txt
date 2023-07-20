@@ -370,9 +370,9 @@ pycparser==2.21 \
     --hash=sha256:8ee45429555515e1f6b185e78100aea234072576aa43ab53aefcae078162fca9 \
     --hash=sha256:e644fdec12f7872f86c58ff790da456218b10f863970249516d60a5eaca77206
     # via cffi
-pygments==2.13.0 \
-    --hash=sha256:56a8508ae95f98e2b9bdf93a6be5ae3f7d8af858b43e02c5a2ff083726be40c1 \
-    --hash=sha256:f643f331ab57ba3c9d89212ee4a2dabc6e94f117cf4eefde99a0574720d14c42
+pygments==2.15.0 \
+    --hash=sha256:77a3299119af881904cd5ecd1ac6a66214b6e9bed1f2db16993b54adede64094 \
+    --hash=sha256:f7e36cffc4c517fbc252861b9a6e4644ca0e5abadf9a113c72d1358ad09b9500
     # via
     #   readme-renderer
     #   rich
@@ -424,10 +424,6 @@ secretstorage==3.3.3 \
     --hash=sha256:2403533ef369eca6d2ba81718576c5e0f564d5cca1b58f73a8b23e7d4eeebd77 \
     --hash=sha256:f356e6628222568e3af06f2eba8df495efa13b3b63081dafd4f7d9a7b7bc9f99
     # via keyring
-setuptools==65.2.0 \
-    --hash=sha256:7f4bc85450898a09f76ebf28b72fa25bc7111f6c7d665d514a60bba9c75ef2a9 \
-    --hash=sha256:a3ca5857c89f82f5c9410e8508cb32f4872a3bafd4aa7ae122a24ca33bccc750
-    # via -r requirements.in
 six==1.16.0 \
     --hash=sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926 \
     --hash=sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254
